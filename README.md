@@ -1,5 +1,5 @@
 # Space-Invaders
-Star Wars themed Space Invaders game made using Pygame. 
+Simple Star Wars themed Space Invaders game made using Pygame. 
 
 
 Made as part of a mini-project in my university.
